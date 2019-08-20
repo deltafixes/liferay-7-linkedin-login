@@ -1,7 +1,7 @@
 # Liferay 7 Linkedin Login
 This plugin enables user to login using LinkedIn account. Upon enabling this plugin using belong given steps, Linkedin login option is shown on Liferay's login screen.
 
-## Supported Environment
+## Supported Environments
 Liferay 7.0 + DXP, Liferay 7.1 + DXP, Liferay 7.0 CE-GA5 +, Liferay 7.1 CE-GA2 +
 
 
