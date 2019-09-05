@@ -20,3 +20,6 @@ This plugin enables user to login using LinkedIn account. Upon enabling this plu
 5. After enabling this plugin user can see Login with Linkedin option on Liferay's login page.
 ![linkedin_login_liferay](https://user-images.githubusercontent.com/27973508/63243167-5b4a3f00-c277-11e9-8399-bcf07338e7a8.JPG)
 ![linkdin_login_web](https://user-images.githubusercontent.com/27973508/63243202-74eb8680-c277-11e9-89c2-ba4d45801d7c.JPG)
+
+## Support
+   Please feel free to contact us on info@deltafixes.com for any issue/suggestions.
