@@ -9,7 +9,7 @@ This plugin enables user to login using LinkedIn account. Upon enabling this plu
 5. Liferay DXP 7.1+
 
 ## How to use
-1. Download and install LinkedIn plugin on your server. Make sure plugin is properly deployed on server.
+1. [Download](https://web.liferay.com/marketplace/-/mp/application/169226679) and install LinkedIn plugin on your server. Make sure plugin is properly deployed on server.
 2. Create LinkedIn application in LinkedIn developer by following given [steps](https://docs.wpwebelite.com/social-network-integration/linkedin/ "LinkedIn Application")
 3. Set Linkedin authentication credential (Control Panel &rarr; Instance Settings &rarr; Authentication &rarr; LinkedIn) same as LinkedIn application.
 ![linkedin_credential_instance_setting](https://user-images.githubusercontent.com/27973508/63245157-027da500-c27d-11e9-912a-88c77a835289.jpg)
